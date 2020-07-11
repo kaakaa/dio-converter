@@ -1,3 +1,5 @@
+**Move to https://github.com/kaakaa/dio-exporter**
+
 # dio-converter
 
 Convert dio to png
